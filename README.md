@@ -2,7 +2,7 @@
 
 Live Demo - (https://beshoys.github.io/skymov-movies-app).
 
-login used in the app: email: beshoysaid@gmail.com, password: Beshoy123 (not really email but it's in the DB or you can register your own)
+login used in the app: email: beshoysaid@gmail.com, password: Beshoy123 (not real email but it's in the DB or you can register your own)
 
 ## Available Scripts
 
