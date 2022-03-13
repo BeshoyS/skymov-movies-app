@@ -1,8 +1,8 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# SkyMov Movies React App
 
 Live Demo - (https://beshoys.github.io/skymov-movies-app).
+
+login used in the app: email: beshoysaid@gmail.com, password: Beshoy123 (not really email but it's in the DB or you can register your own)
 
 ## Available Scripts
 
